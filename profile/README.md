@@ -46,7 +46,7 @@ Click "Submit" in the navigation bar to add your project to the directory.
 **Filter by Category**:  
 Explore niche tools under categories like [Web3](/category/web3) or [AI](/category/ai).
 
-[![Screenshot of Webspot UI](https://webspot.app/site.png)](https://webspot.app)
+[![Screenshot of Webspot UI](https://i.imgur.com/Y21l9VR.png)](https://webspot.app)
 
 ---
 
